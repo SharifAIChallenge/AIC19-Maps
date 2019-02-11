@@ -7709,7 +7709,7 @@
 				"SENTRY_DODGE",
 				"SENTRY_RAY"
 			],
-			"maxHP": 150,
+			"maxHP": 120,
 			"moveAPCost": 6,
 			"respawnTime": 5
 		},
@@ -7775,8 +7775,8 @@
 			"APCost": 15,
 			"cooldown": 0,
 			"areaOfEffect": 0,
-			"power": 10,
-			"isLobbing": false
+			"power": 20,
+			"isLobbing": true
 		},
 		{
 			"name": "BLASTER_ATTACK",
@@ -7803,7 +7803,7 @@
 			"type": "FORTIFY",
 			"range": 4,
 			"APCost": 25,
-			"cooldown": 8,
+			"cooldown": 7,
 			"areaOfEffect": 0,
 			"power": 0,
 			"isLobbing": true
@@ -7845,8 +7845,8 @@
 			"APCost": 15,
 			"cooldown": 0,
 			"areaOfEffect": 1,
-			"power": 20,
-			"isLobbing": false
+			"power": 25,
+			"isLobbing": true
 		},
 		{
 			"name": "SENTRY_RAY",
