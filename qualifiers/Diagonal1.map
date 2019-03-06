@@ -7781,7 +7781,7 @@
 		{
 			"name": "BLASTER_ATTACK",
 			"type": "OFFENSIVE",
-			"range": 4,
+			"range": 3,
 			"APCost": 15,
 			"cooldown": 1,
 			"areaOfEffect": 1,
@@ -7835,7 +7835,7 @@
 			"APCost": 25,
 			"cooldown": 4,
 			"areaOfEffect": 2,
-			"power": 40,
+			"power": 35,
 			"isLobbing": true
 		},
 		{
